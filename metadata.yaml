@@ -1,0 +1,6 @@
+homepage: "https://www.simoahava.com/"
+versions:
+  # Latest version
+  - sha: ce315861ce4b1ee4e932f8ea8db543e0fcd345b7
+    changeNotes: Initial release
+  # Older versions
